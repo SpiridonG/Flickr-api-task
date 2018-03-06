@@ -1,6 +1,6 @@
 # Flickr API test app
 
-Single page APP showing Flickr's feed. 
+Single page APP showing Flickr's photo stream.
 
 # Flickr service format
 
