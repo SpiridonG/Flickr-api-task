@@ -1,6 +1,11 @@
-# Flickr-api-task
+# Flickr API test app
 
-Flickr API format used: json
+Single page APP showing Flickr's feed. 
 
+# Flickr service format
 
+Format used: json
 
+# Prerequisites
+
+None, download and run
