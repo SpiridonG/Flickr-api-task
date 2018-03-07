@@ -1,4 +1,4 @@
-# Flickr API test app
+# Flickr API task
 
 Single page APP showing Flickr's photo stream.
 
